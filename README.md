@@ -1,1 +1,1 @@
-# txt-calc
+# txt-calculator
